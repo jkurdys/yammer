@@ -9,7 +9,7 @@ This repo contains my response to the Mode Analytics SQL Analytics Training [cas
 ### Table of Contents
 
 Here's a quick summary of what you'll find in this repo.
-* [data](link) the complete data set consisting of the following tables exported from Mode:
+* [data](https://github.com/jkurdys/yammer/tree/main/data) the complete data set consisting of the following tables exported from Mode:
     * Users
     * Events
     * Email Events
