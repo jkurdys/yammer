@@ -16,7 +16,7 @@ Here's a quick summary of what you'll find in this repo.
     * Rollup Periods
 * [images](https://github.com/jkurdys/yammer/tree/main/images) generated charts and graphs for data analysis
 * [notebooks](link) Jupyter notebooks that walk users through the data analysis process
-* [src](link) all code for the project in SQL and Python 3 formatted scripts
+* [src](link) all code for the project in PostgreSQL and Python 3 formatted scripts
 
 ### The problem
 
